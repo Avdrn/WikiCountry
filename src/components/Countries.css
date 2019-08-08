@@ -1,0 +1,19 @@
+.countries-container {
+  display: flex;
+  width: 20%;
+  flex-wrap: wrap;
+  padding: 2%;
+  height: 100vh;
+  box-sizing: border-box;
+  border: grey;
+  overflow-y: scroll;
+}
+
+.country-container {
+  width: 100%;
+  padding: 5%;
+}
+
+.country-container a {
+  color: black;
+}

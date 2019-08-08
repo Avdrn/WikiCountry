@@ -1,0 +1,22 @@
+    
+.county-details-container {
+  width: 60%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: self-start;
+}
+
+
+.county-details-container-all {
+  display: flex;
+  flex-direction: row;
+}
+
+.county-details-container-objects {
+  width: 200px;
+}
+
+.county-details-items {
+  border: solid aqua
+}
